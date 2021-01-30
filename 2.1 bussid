@@ -1,0 +1,10 @@
+# Astendamine
+print("Astendamine")
+num1 = input("Sisesta astme alus:")
+num2 = input("Sisesta astendaja:")
+astme_alus = int(num1)
+astendaja = int(num2)
+astendamine = astme_alus ** astendaja
+print(astendamine)
+print('''
+''')
